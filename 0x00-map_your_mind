@@ -1,0 +1,26 @@
+
+Algo code
+
+Int n,i,sum;
+Sum = 0;
+write('How many do you want the sums of the 
+squares of integers? ');
+Read(n);
+Sum <-- 0;
+For i ranging from 1 to n;
+Sum <-- sum + i*i;
+Endfor
+write('The sum of the squares of integers 
+       from 1 to ',N,' is ',sum);
+
+
+
+
+Pseudo code 
+
+Read n 
+sum <— 0 
+For i ranging from 1 to n 
+sum <— sum + i*i 
+end for 
+Write sum
